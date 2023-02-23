@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/fibranobre",
   "logo": "/img/uploads/logo-site_prancheta-1.png",
-  "name": "fibranobre",
+  "name": "FIBRA NOBRE",
   "short_name": "FIBRA NOBRE",
   "lang": "pt_br",
   "currency": "BRL",
@@ -21,6 +21,6 @@
   "secondary_color": "#05350d",
   "icon": "/img/uploads/1_prancheta-1.png",
   "store_id": 51360,
-  "description": "FIBRA NOBRE",
+  "description": "Tábuas para churrasco, corte e servir produzidas de forma artesanal. ",
   "large_icon": "/img/uploads/logo-site_prancheta-1.png"
 }
