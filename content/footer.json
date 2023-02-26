@@ -24,6 +24,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/icon-256x256.png"
     }
   ],
   "payment_methods": {
@@ -31,7 +34,7 @@
     "visa": true,
     "mastercard": true,
     "elo": true,
-    "amex": true,
+    "amex": false,
     "hipercard": true,
     "boleto": true
   },
