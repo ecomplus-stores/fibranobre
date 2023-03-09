@@ -1,7 +1,7 @@
 {
   "domain": "fibranobre.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#472017",
+  "primary_color": "#4f1d15",
   "theme": {
     "bootswatch": "minty",
     "custom": "clean-white"
