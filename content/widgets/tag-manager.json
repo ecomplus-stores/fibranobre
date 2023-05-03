@@ -4,9 +4,9 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": " GTM-W44KL34",
+    "gtmContainerId": "GTM-W44KL34",
     "dataLayerVar": "dataLayer",
-    "partytown": true
+    "partytown": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
