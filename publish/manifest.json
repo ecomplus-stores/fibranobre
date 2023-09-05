@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.db3dad7a8260467946a421b19b23ecac.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.37fcda0179032403389df3d2cb0d7f2e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.be3d075be8e8ddb77d016ac4157370a0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.4dc56523645d3cb7a197410b75b216bb.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.cc5f46eb7cded4ca6859de41085b399b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "FIBRA NOBRE",
+  "short_name": "FIBRA NOBRE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Tábuas de corte e servir produzidas artesanalmente. ",
+  "background_color": "#ffffff",
+  "theme_color": "#4f1d15"
+}
